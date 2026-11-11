@@ -2,3 +2,7 @@ target/
 .vscode/
 .idea/
 *.class
+*.csv
+*.zip
+config.json
+.env
